@@ -1,0 +1,29 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Utilizar o Spring para realizar testes nos endpoints de aplicações REST",
+        "bonus": false
+      },
+      {
+        "description": "2 - Utilizar @ExceptionHandler para criar fluxo de exceção em aplicação Spring",
+        "bonus": false
+      },
+      {
+        "description": "3 - Utilizar @ControllerAdvice em controller para dar suporte ao tratamento de exceções",
+        "bonus": false
+      },
+      {
+        "description":"4 - Utilizar @ControllerAdvice em controller para dar suporte ao tratamento de exceções",
+        "bonus":false
+      },
+      {
+        "description":"5 - Utilizar @ControllerAdvice em controller para dar suporte ao tratamento de exceções",
+        "bonus":false
+      },
+      {
+        "description":"6 - Utilizar o conceito de Circuit Breaker ao tratamento de exceções",
+        "bonus":false
+      }
+    ]
+}
+  
