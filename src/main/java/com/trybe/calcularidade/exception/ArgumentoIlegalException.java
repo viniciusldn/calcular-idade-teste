@@ -6,4 +6,10 @@ package com.trybe.calcularidade.exception;
 
 @SuppressWarnings("serial")
 public class ArgumentoIlegalException extends RuntimeException {
+
+  public ArgumentoIlegalException(String message) {
+    super(message);
+    // TODO Auto-generated constructor stub
+  }
+
 }
